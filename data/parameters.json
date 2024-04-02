@@ -1,0 +1,7 @@
+{
+    "center frequency(MHz)": 7.6,
+    "sampling rate(samples/wave)" : 4.1,
+    "speed of sound(m/s)" : 1540,
+    "speed of sound(phantom, m/s)" : 1450,
+    "spacing(mm)" : 0.3
+}

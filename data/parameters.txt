@@ -1,0 +1,5 @@
+center frequency : 7.6MHz
+sampling rate : 4.1 samples/wave
+speed of sound : 1540 m/s
+speed of sound(phantom) : 1450 m/s
+spacing : 0.3 mm
