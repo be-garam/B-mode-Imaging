@@ -1,4 +1,5 @@
 {
+    "samplingRate(MHz)": 31.6,
     "center frequency(MHz)": 7.6,
     "sampling rate(samples/wave)" : 4.1,
     "speed of sound(m/s)" : 1540,
