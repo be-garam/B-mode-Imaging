@@ -22,6 +22,12 @@ Code for B-mode imaging base on Ultrasound image
 
     ![alt tag](/resource/Screenshot%20from%202024-04-02%2012-59-08.png)
 
+### B-mode Imaging
+- Brightness-mode: 반사파의 강도를 위도로 변환한 밝기 표시법
+- 회색도: 반사 강도의 분포를 휘도값 분포로 변환하여 주사선상의 격자에 표시되어 나타나는데, 이때의 분포의 범위를 의미
+    - 반사파 강도가 강한 것은 희색으로, 반사파 강도가 약한 것은 점차 검은 색으로 나타나 반사파 강도에 따라 회색 범위를 갖는다.
+    - 영상의 pixel이 가질 수 있는 휘도값의 범위로써 8bit(256) 이상이 되어야 한다. 
+
 ## Function
 - Given Data(input): `arm_img.mat` / 2176px * 128px * 100 frames
 - Final Image(= Region of Interest, output): 400px * 400px (dynamic range: 50dB)
