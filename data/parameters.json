@@ -4,5 +4,7 @@
     "sampling rate(samples/wave)" : 4.1,
     "speed of sound(m/s)" : 1540,
     "speed of sound(phantom, m/s)" : 1450,
-    "spacing(mm)" : 0.3
+    "spacing(mm)" : 0.3,
+    "output y(px)" : 400,
+    "output y(mm)" : 40
 }
